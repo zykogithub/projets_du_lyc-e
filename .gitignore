@@ -1,0 +1,8 @@
+*.ipynb
+*.txt
+*.csv
+*.png
+1ere/période_3/période_3/tp4_reseau_files
+*__pycache__
+*.cgi
+*.pdf
